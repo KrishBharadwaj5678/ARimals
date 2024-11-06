@@ -1,6 +1,3 @@
-Sure! Here's an eye-catching version of your README with some added emphasis and formatting to make it pop:
-
----
 
 # **🌟 Welcome to the Animal AR Adventure! 🌟**
 
