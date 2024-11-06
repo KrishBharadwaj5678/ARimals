@@ -1,4 +1,3 @@
-
 # **🌟 Welcome to the Animal AR Adventure! 🌟**
 
 **🐾 Step into a World of Wonder! 🐾**  
