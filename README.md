@@ -1,4 +1,4 @@
-# **🌟 Welcome to the Animal AR Adventure! 🌟**
+# **🌟 Welcome to the Animal AR Adventure!**
 
 **🐾 Step into a World of Wonder! 🐾**  
 Prepare to be amazed as your favorite animals come to life in stunning **Augmented Reality**! Watch as **realistic 3D models** of animals leap off the screen and into your world, ready to explore and interact with.
