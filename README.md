@@ -1,40 +1,63 @@
-# **🌟 Welcome to the Animal AR Adventure!**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/ARimals.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/ARimals?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/ARimals?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/ARimals?style=for-the-badge&color=blue" />
+</p>
 
-**🐾 Step into a World of Wonder! 🐾**  
-Prepare to be amazed as your favorite animals come to life in stunning **Augmented Reality**! Watch as **realistic 3D models** of animals leap off the screen and into your world, ready to explore and interact with.
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
-### 🚀 **Getting Started is Easy!** 🚀
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/ARimals/raw/main/assets/icons/ARimals.png" width="35"/> ARimals</h1>
 
-Follow these simple steps to unlock the magic:
+<p align="center">
+  Scan the animal image, view it in 3D, and explore an immersive wildlife experience in AR.
+</p>
 
----
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/ARimals/raw/main/assets/demos/ARimals.gif" width="100%" />
+</p>
 
-### **Step 1:**  
-🖼️ **Download the animal images** from the repository to your device.
+<img src="https://github.com/KrishBharadwaj5678/ARimals/raw/main/assets/readme/divider.gif" width="100%"/>
 
----
+## <img src="https://github.com/KrishBharadwaj5678/ARimals/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
 
-### **Step 2:**  
-📲 **Download the app** by clicking the link provided.
+### 1️⃣ Download the Images
 
----
+- **Download the animal images** from the repository's `markers` folder to your device.
 
-### **Step 3:**  
-🎮 **Open the app** and get ready for an unforgettable AR adventure!
+### 2️⃣ Download the App
 
----
+- [Download the app](https://drive.google.com/file/d/1djb-FUEnDeQPxxXT_m3Vcit2pRl-SKKc/view?usp=sharing) using the link provided in the repository.
 
-### **Step 4:**  
-📸 **Scan any of the animal images** you've downloaded to trigger the magic!
+### 3️⃣ Launch the App
 
----
+- **Open the app** to begin the immersive augmented reality experience.
 
-### **Step 5:**  
-🌟 **Watch as stunning 3D animals** appear on your screen and take you on an interactive journey through the animal kingdom!
+### 4️⃣ Scan the Image
 
----
+- **Scan any downloaded image** using the app to activate the AR experience.
 
-### 🌍 **Dive into the Wild!** 🌍  
-Whether you're an animal lover or just curious, this AR experience is designed for **fun**, **learning**, and endless exploration. Let the adventure begin!
+### 5️⃣ Experience in AR
+
+- **Explore realistic 3D animals** directly on your screen.
+
+<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/ARimals/raw/main/assets/readme/license.gif" width="35"/> License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/ARimals/raw/main/assets/readme/footer.gif" width="320px"/>
+</p>
+
 
 ---
