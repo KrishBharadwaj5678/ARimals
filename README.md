@@ -58,6 +58,3 @@ See the [LICENSE](LICENSE) file for more details.
 <p align="center">
   <img src="https://github.com/KrishBharadwaj5678/ARimals/raw/main/assets/readme/footer.gif" width="320px"/>
 </p>
-
-
----
