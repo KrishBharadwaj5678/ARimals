@@ -47,7 +47,7 @@
 
 - **Explore realistic 3D animals** directly on your screen.
 
-<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/divider.gif" width="100%"/>
+<img src="https://github.com/KrishBharadwaj5678/ARimals/raw/main/assets/readme/divider.gif" width="100%"/>
 
 ## <img src="https://github.com/KrishBharadwaj5678/ARimals/raw/main/assets/readme/license.gif" width="35"/> License
 
